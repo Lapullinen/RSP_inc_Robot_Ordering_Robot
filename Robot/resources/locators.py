@@ -1,0 +1,8 @@
+RSPI_ORDER_NEW_ROBOT_MODAL = '//*[@id="root"]/div/div[2]/div/div/div/div/div/button[1]'
+RSPI_ORDER_NEW_ROBOT_TEXT_INPUT_LEGS = '//*[@placeholder="Enter the part number for the legs"]'
+RSPI_ORDER_NEW_ROBOT_PREVIEW_BUTTON = '//*[@id="preview"]'
+RSPI_ORDER_NEW_ROBOT_ORDER_BUTTON = '//*[@id="order"]'
+RSPI_ORDER_NEW_ROBOT_ORDER_ANOTHER_BUTTON = '//*[@id="order-another"]'
+RSPI_ORDER_NEW_ROBOT_ALERT_TEXT = '//*[@class="alert alert-danger" and @role="alert"]'
+RSPI_ORDER_NEW_ROBOT_PREVIEW = '//*[@id="robot-preview-image"]'
+RSPI_ORDER_NEW_ROBOT_RECEIPT = '//*[@id="order-completion"]'
